@@ -9,3 +9,7 @@
 * [Day 23.](src/day23) HashMap
 * [Day 25.](src/day25) Java Methods: Void static
 * [Day 32.](src/day32) Recap: Class, Objects, Methods
+* [Day 35.](src/day35) Constructors and Access Modifiers
+* [Day 41.](src/day41) Inheritance
+* [Day 43.](src/day43) Polymorphism
+* [Day 48.](src/day48) Recap: OOP
